@@ -1,0 +1,27 @@
+THE 5 MOST RELATED WORK
+
+"Facial recognition market to reach $2.19bn by 2019"
+Automated border control(ABC) helps in performing border checks, authenticates traveller's documents and verifies entry 
+conditions at airports. This automated biometric solution was devised to enable border control of passengers at airports worldwide.
+ABC tackles the problems caused by the rapid growth of passengers thereby eradicating congestion at electronic gates, which in turn reduces 
+of delays in flight arrivals and departures.An experimental analysis was carried out so as to ascertain the best face recogniton system, the
+type of illumination to be used and how to improve such systems in the future.
+
+"Faces detection method based on skin color modeling"
+ The study suggests a face detection technique by way of skin colour detection in various perspectives. It's largely based on appearance and 
+ adopts a sliding window type which may cause high computational costs in the process of detection scanning as the image size increases, 
+ whereas the processing time is extended accordingly.
+ 
+ "Developing a novel technique for face liveness detection"
+ Face recognition is an important tool in identifying a person. It points out how spoofing attack weakens the recognition process.There are 
+ three approaches involved; by challenge and response, by face texture, and by joining two or more biometric liveness.
+ 
+ "Handbook of face recognition"
+ Basically, this book affirms that biometric face recognition has an edge over the other biometric modalities such as fingerprint and iris, 
+ coupled with the fact that it's natural, nonintrusive, and can becaptured at a distance and in a covert manner. It als shows the main steps 
+ of face detection and recognition problems, technological problems encountered in the processand the possiblle strategies for solving some 
+ of the problems.   
+ 
+ 
+ I will use the book--Handbook of face recognition as the guide to do implement my project alongside other resources available online which i'd 
+ i'd cite as the project progresses.
